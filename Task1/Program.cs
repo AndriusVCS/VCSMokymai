@@ -11,10 +11,9 @@ namespace Task1
 {
     class Program
     {
-        LabaiSudetingasKompresijosWorkeris manoWorkeris = new LabaiSudetingasKompresijosWorkeris();
-
         private static void Main(string[] args)
         {
+
             using(FileStream fs = new FileStream("c:/test/test.exe", FileMode.Open))
             {
 
