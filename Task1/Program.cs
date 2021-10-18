@@ -28,6 +28,11 @@ namespace Task1
 
         }
 
+        public void Daryti()
+        {
+            //uzduotis 5 logika
+        }
+
 
         public class ManoKlase : IDisposable
         {
