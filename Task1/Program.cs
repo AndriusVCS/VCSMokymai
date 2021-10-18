@@ -16,7 +16,6 @@ namespace Task1
 
             using(FileStream fs = new FileStream("c:/test/test.exe", FileMode.Open))
             {
-                //asdfsadf
 
             }
 
